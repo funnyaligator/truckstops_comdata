@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Моя локация</title>
+</head>
+<body>
+  <h2>Определение локации...</h2>
+  <div id="output"></div>
+
+  <script>
+    function showLocation(position) {
+      const lat = position.coords.latitude;
+      const lon = position.coords.longitude;
+      document.getElementById('output').innerHTML = `
+        <p>Широта: ${lat}</p>
+        <p>Долгота: ${lon}</p>
+        <p>Ищем ZIP-код...</p>
+      `;
+
+      fetch(`https://nominatim.openstreetmap.org/reverse?lat=${lat}&lon=${lon}&format=json`)
+        .then(res => res.json())
+        .then(data => {
+          const zip = data.address.postcode || "не найден";
+          document.getElementById('output').innerHTML += `<p>ZIP: ${zip}</p>`;
+        });
+    }
+
+    function error(err) {
+      document.getElementById('output').innerHTML = `<p>Ошибка: ${err.message}</p>`;
+    }
+
+    navigator.geolocation.getCurrentPosition(showLocation, error, {
+      enableHighAccuracy: true
+    });
+  </script>
+</body>
+</html>
