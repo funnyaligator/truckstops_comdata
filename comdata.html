@@ -2,6 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Моя локация</title>
 </head>
 <body>
@@ -9,30 +10,31 @@
   <div id="output"></div>
 
   <script>
-    function showLocation(position) {
-      const lat = position.coords.latitude;
-      const lon = position.coords.longitude;
-      document.getElementById('output').innerHTML = `
-        <p>Широта: ${lat}</p>
-        <p>Долгота: ${lon}</p>
-        <p>Ищем ZIP-код...</p>
-      `;
+    const output = document.getElementById("output");
 
-      fetch(`https://nominatim.openstreetmap.org/reverse?lat=${lat}&lon=${lon}&format=json`)
-        .then(res => res.json())
-        .then(data => {
-          const zip = data.address.postcode || "не найден";
-          document.getElementById('output').innerHTML += `<p>ZIP: ${zip}</p>`;
-        });
+    if ("geolocation" in navigator) {
+      navigator.geolocation.getCurrentPosition(
+        (position) => {
+          const lat = position.coords.latitude;
+          const lon = position.coords.longitude;
+          output.innerHTML = `<p>Широта: ${lat}</p><p>Долгота: ${lon}</p>`;
+
+          // Обратное геокодирование
+          fetch(`https://nominatim.openstreetmap.org/reverse?lat=${lat}&lon=${lon}&format=json`)
+            .then(res => res.json())
+            .then(data => {
+              const zip = data.address.postcode || "не найден";
+              output.innerHTML += `<p>ZIP: ${zip}</p>`;
+            });
+        },
+        (error) => {
+          output.innerHTML = `<p>Ошибка: ${error.message}</p>`;
+        },
+        { enableHighAccuracy: true }
+      );
+    } else {
+      output.innerHTML = "<p>Ваш браузер не поддерживает геолокацию.</p>";
     }
-
-    function error(err) {
-      document.getElementById('output').innerHTML = `<p>Ошибка: ${err.message}</p>`;
-    }
-
-    navigator.geolocation.getCurrentPosition(showLocation, error, {
-      enableHighAccuracy: true
-    });
   </script>
 </body>
 </html>
