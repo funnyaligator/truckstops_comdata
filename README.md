@@ -1,3 +1,3 @@
 # truckstops_comdata
 
-<a>¥</>
+<a>¥</a>
