@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Моя локация</title>
+</head>
+<body>
+  <h2>Определение локации...</h2>
+  <div id="output"></div>
+
+  <script>
+    const output = document.getElementById("output");
+
+    if ("geolocation" in navigator) {
+      navigator.geolocation.getCurrentPosition(
+        (position) => {
+          const lat = position.coords.latitude;
+          const lon = position.coords.longitude;
+          output.innerHTML = `<p>Широта: ${lat}</p><p>Долгота: ${lon}</p>`;
+
+          // Nominatim
+          fetch(`https://nominatim.openstreetmap.org/reverse?lat=${lat}&lon=${lon}&format=json`)
+            .then(res => res.json())
+            .then(data => {
+              let zip = data.address?.postcode;
+              if (zip) {
+                output.innerHTML += `<p>ZIP: ${zip}</p>`;
+              } else {
+                // fallback — BigDataCloud
+                fetch(`https://api.bigdatacloud.net/data/reverse-geocode-client?latitude=${lat}&longitude=${lon}&localityLanguage=en`)
+                  .then(res => res.json())
+                  .then(data => {
+                    const fallbackZip = data.postcode || "не найден";
+                    output.innerHTML += `<p>ZIP (резерв): ${fallbackZip}</p>`;
+                  });
+              }
+            });
+        },
+        (error) => {
+          output.innerHTML = `<p>Ошибка: ${error.message}</p>`;
+        },
+        { enableHighAccuracy: true, timeout: 10000, maximumAge: 0 }
+      );
+    } else {
+      output.innerHTML = "<p>Ваш браузер не поддерживает геолокацию.</p>";
+    }
+  </script>
+</body>
+</html>
