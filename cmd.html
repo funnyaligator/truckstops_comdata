@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Comdata Locator</title>
+  <title>Comdata-заправки рядом</title>
   <style>
     body {
       background-color: #121212;
@@ -84,14 +84,14 @@
     function showComdata(zip) {
       const matches = truckStops.filter(stop => stop.zip === zip);
       if (matches.length > 0) {
-        results.innerHTML = `<h3>Найдено ${matches.length} заправок:</h3>`;
+        results.innerHTML = `<h3>Найдено заправок: ${matches.length}</h3>`;
         matches.forEach(stop => {
           results.innerHTML += `
             <div class="card">
               <b>${stop.city}, ${stop.state}</b><br>
               ZIP: <code>${stop.zip}</code><br>
               Comdata Code: <code>${stop.comdata}</code><br>
-              ${stop.phone ? `📞 Телефон: <code>${stop.phone}</code><br>` : ''}
+              ${stop.phone ? `📞 Телефон: <code>${stop.phone}</code>` : ''}
             </div>
           `;
         });
