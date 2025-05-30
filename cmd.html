@@ -32,6 +32,18 @@
       color: #00e676;
       font-size: 1.1em;
     }
+    button {
+      background-color: #2e2e2e;
+      border: 1px solid #555;
+      color: #e0e0e0;
+      padding: 6px 10px;
+      margin-top: 5px;
+      cursor: pointer;
+      border-radius: 6px;
+    }
+    button:hover {
+      background-color: #444;
+    }
   </style>
 </head>
 <body>
@@ -85,19 +97,33 @@
       const matches = truckStops.filter(stop => stop.zip === zip);
       if (matches.length > 0) {
         results.innerHTML = `<h3>Найдено заправок: ${matches.length}</h3>`;
-        matches.forEach(stop => {
+        matches.forEach((stop, index) => {
+          const message = `${stop.comdata} EF please`;
+          const id = `copy-btn-${index}`;
+
           results.innerHTML += `
             <div class="card">
               <b>${stop.city}, ${stop.state}</b><br>
               ZIP: <code>${stop.zip}</code><br>
-              Comdata Code: <code>${stop.comdata}</code><br>
-              ${stop.phone ? `📞 Телефон: <code>${stop.phone}</code>` : ''}
+              📋 <code id="msg-${id}">${message}</code><br>
+              <button onclick="copyToClipboard('${message}', '${id}')">Скопировать</button>
             </div>
           `;
         });
       } else {
         results.innerHTML = `<p>❌ Нет совпадений по ZIP <code>${zip}</code></p>`;
       }
+    }
+
+    function copyToClipboard(text, id) {
+      navigator.clipboard.writeText(text).then(() => {
+        const msgEl = document.getElementById(`msg-${id}`);
+        msgEl.innerHTML = `${text} ✅`;
+        msgEl.style.color = "#00e676";
+        setTimeout(() => {
+          msgEl.innerHTML = text;
+        }, 2000);
+      });
     }
   </script>
 </body>
