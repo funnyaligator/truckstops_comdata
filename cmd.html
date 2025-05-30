@@ -11,7 +11,7 @@
       font-family: sans-serif;
       padding: 20px;
     }
-    h2 {
+    h2, h3 {
       color: #ffffff;
     }
     #output, #results {
@@ -35,8 +35,8 @@
   </style>
 </head>
 <body>
-  <h2>Поиск ближайшей Comdata-заправки</h2>
-  <div id="output">Определение локации...</div>
+  <h2>Comdata-заправки рядом</h2>
+  <div id="output">Определение ZIP-кода...</div>
   <div id="results"></div>
 
   <script>
@@ -53,21 +53,20 @@
         (position) => {
           const lat = position.coords.latitude;
           const lon = position.coords.longitude;
-          output.innerHTML = `<p>Широта: ${lat}</p><p>Долгота: ${lon}</p>`;
 
           fetch(`https://nominatim.openstreetmap.org/reverse?lat=${lat}&lon=${lon}&format=json`)
             .then(res => res.json())
             .then(data => {
               let zip = data.address?.postcode;
               if (zip) {
-                output.innerHTML += `<p>ZIP: ${zip}</p>`;
+                output.innerHTML = `<p>ZIP: <code>${zip}</code></p>`;
                 showComdata(zip);
               } else {
                 fetch(`https://api.bigdatacloud.net/data/reverse-geocode-client?latitude=${lat}&longitude=${lon}&localityLanguage=en`)
                   .then(res => res.json())
                   .then(data => {
                     const fallbackZip = data.postcode || null;
-                    output.innerHTML += `<p>ZIP (резерв): ${fallbackZip}</p>`;
+                    output.innerHTML = `<p>ZIP (резерв): <code>${fallbackZip}</code></p>`;
                     if (fallbackZip) showComdata(fallbackZip);
                   });
               }
@@ -83,23 +82,23 @@
     }
 
     function showComdata(zip) {
-    const matches = truckStops.filter(stop => stop.zip === zip);
-    if (matches.length > 0) {
-    results.innerHTML = `<h3>Найдены заправки:</h3>`;
-    matches.forEach(stop => {
-      results.innerHTML += `
-        <div class="card">
-          <b>${stop.city}, ${stop.state}</b><br>
-          ZIP: <code>${stop.zip}</code><br>
-          Comdata Code: <code>${stop.comdata}</code><br>
-          ${stop.phone ? `📞 Телефон: <code>${stop.phone}</code><br>` : ''}
-        </div>
-      `;
-    });
-  } else {
-    results.innerHTML = `<p>❌ Нет совпадений по ZIP <code>${zip}</code></p>`;
-  }
-  }
+      const matches = truckStops.filter(stop => stop.zip === zip);
+      if (matches.length > 0) {
+        results.innerHTML = `<h3>Найдено ${matches.length} заправок:</h3>`;
+        matches.forEach(stop => {
+          results.innerHTML += `
+            <div class="card">
+              <b>${stop.city}, ${stop.state}</b><br>
+              ZIP: <code>${stop.zip}</code><br>
+              Comdata Code: <code>${stop.comdata}</code><br>
+              ${stop.phone ? `📞 Телефон: <code>${stop.phone}</code><br>` : ''}
+            </div>
+          `;
+        });
+      } else {
+        results.innerHTML = `<p>❌ Нет совпадений по ZIP <code>${zip}</code></p>`;
+      }
+    }
   </script>
 </body>
 </html>
