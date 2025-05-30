@@ -3,15 +3,24 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Моя локация</title>
+  <title>Моя локация и Comdata</title>
 </head>
 <body>
   <h2>Определение локации...</h2>
   <div id="output"></div>
+  <div id="results"></div>
 
   <script>
     const output = document.getElementById("output");
+    const results = document.getElementById("results");
 
+    // Подгружаем JSON с заправками
+    let truckStops = [];
+    fetch('loves_comdata_zipped.json')
+      .then(res => res.json())
+      .then(data => truckStops = data);
+
+    // Получение геопозиции
     if ("geolocation" in navigator) {
       navigator.geolocation.getCurrentPosition(
         (position) => {
@@ -19,20 +28,22 @@
           const lon = position.coords.longitude;
           output.innerHTML = `<p>Широта: ${lat}</p><p>Долгота: ${lon}</p>`;
 
-          // Nominatim
+          // Определяем ZIP через Nominatim
           fetch(`https://nominatim.openstreetmap.org/reverse?lat=${lat}&lon=${lon}&format=json`)
             .then(res => res.json())
             .then(data => {
               let zip = data.address?.postcode;
               if (zip) {
                 output.innerHTML += `<p>ZIP: ${zip}</p>`;
+                showComdata(zip);
               } else {
-                // fallback — BigDataCloud
+                // fallback на другой сервис
                 fetch(`https://api.bigdatacloud.net/data/reverse-geocode-client?latitude=${lat}&longitude=${lon}&localityLanguage=en`)
                   .then(res => res.json())
                   .then(data => {
-                    const fallbackZip = data.postcode || "не найден";
+                    const fallbackZip = data.postcode || null;
                     output.innerHTML += `<p>ZIP (резерв): ${fallbackZip}</p>`;
+                    if (fallbackZip) showComdata(fallbackZip);
                   });
               }
             });
@@ -44,6 +55,25 @@
       );
     } else {
       output.innerHTML = "<p>Ваш браузер не поддерживает геолокацию.</p>";
+    }
+
+    // Функция поиска и вывода Comdata по ZIP
+    function showComdata(zip) {
+      const matches = truckStops.filter(stop => stop.zip === zip);
+      if (matches.length > 0) {
+        results.innerHTML = `<h3>Ближайшие заправки:</h3>`;
+        matches.forEach(stop => {
+          results.innerHTML += `
+            <p>
+              <b>${stop.city}, ${stop.state}</b><br>
+              Comdata: <code>${stop.comdata}</code><br>
+              ZIP: ${stop.zip}
+            </p>
+          `;
+        });
+      } else {
+        results.innerHTML = `<p>Нет совпадений по ZIP ${zip}</p>`;
+      }
     }
   </script>
 </body>
