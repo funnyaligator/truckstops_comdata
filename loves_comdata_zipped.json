@@ -1,0 +1,3452 @@
+[
+  {
+    "city": "Clanton",
+    "state": "AL",
+    "zip": "35045",
+    "comdata": "AL956"
+  },
+  {
+    "city": "Evergreen",
+    "state": "AL",
+    "zip": "36401",
+    "comdata": "AL480"
+  },
+  {
+    "city": "Falkville",
+    "state": "AL",
+    "zip": "35622",
+    "comdata": "AL964"
+  },
+  {
+    "city": "Hope Hull",
+    "state": "AL",
+    "zip": "36043",
+    "comdata": "AL804"
+  },
+  {
+    "city": "Jasper",
+    "state": "AL",
+    "zip": "35501",
+    "comdata": "AL381"
+  },
+  {
+    "city": "Loxley",
+    "state": "AL",
+    "zip": "36551",
+    "comdata": "AL821"
+  },
+  {
+    "city": "Moody",
+    "state": "AL",
+    "zip": "35004",
+    "comdata": "AL566"
+  },
+  {
+    "city": "Muscle Shoals/Tuscumbia",
+    "state": "AL",
+    "zip": "35661",
+    "comdata": "AL125"
+  },
+  {
+    "city": "Ozark",
+    "state": "AL",
+    "zip": "36360",
+    "comdata": "AL123"
+  },
+  {
+    "city": "Prichard",
+    "state": "AL",
+    "zip": null,
+    "comdata": "AL533"
+  },
+  {
+    "city": "Shorter",
+    "state": "AL",
+    "zip": "36075",
+    "comdata": "AL110"
+  },
+  {
+    "city": "Steele",
+    "state": "AL",
+    "zip": "35987",
+    "comdata": "AL507"
+  },
+  {
+    "city": "Woodstock/McCala/Lake View",
+    "state": "AL",
+    "zip": "35188",
+    "comdata": "AL360"
+  },
+  {
+    "city": "Eutaw",
+    "state": "AL",
+    "zip": "35462",
+    "comdata": "AL153"
+  },
+  {
+    "city": "Smiths Station",
+    "state": "AL",
+    "zip": null,
+    "comdata": "AL180"
+  },
+  {
+    "city": "Hamilton",
+    "state": "AL",
+    "zip": "35570",
+    "comdata": "AL252"
+  },
+  {
+    "city": "Mobile/Irvington",
+    "state": "AL",
+    "zip": "36601",
+    "comdata": "AL548"
+  },
+  {
+    "city": "Heflin",
+    "state": "AL",
+    "zip": "36264",
+    "comdata": "AL083"
+  },
+  {
+    "city": "Alma",
+    "state": "AR",
+    "zip": "72921",
+    "comdata": "AR116"
+  },
+  {
+    "city": "Blytheville",
+    "state": "AR",
+    "zip": "72315",
+    "comdata": "AR335"
+  },
+  {
+    "city": "Hazen",
+    "state": "AR",
+    "zip": "72064",
+    "comdata": "AR131"
+  },
+  {
+    "city": "Jonesboro",
+    "state": "AR",
+    "zip": "72401",
+    "comdata": "AR098"
+  },
+  {
+    "city": "Lake Village",
+    "state": "AR",
+    "zip": "71653",
+    "comdata": "AR128"
+  },
+  {
+    "city": "Morrilton",
+    "state": "AR",
+    "zip": "72110",
+    "comdata": "AR645"
+  },
+  {
+    "city": "N. Little Rock",
+    "state": "AR",
+    "zip": null,
+    "comdata": "AR225"
+  },
+  {
+    "city": "N. Little Rock",
+    "state": "AR",
+    "zip": null,
+    "comdata": "AR772"
+  },
+  {
+    "city": "Ozark",
+    "state": "AR",
+    "zip": "72949",
+    "comdata": "AR664"
+  },
+  {
+    "city": "Palestine",
+    "state": "AR",
+    "zip": "72372",
+    "comdata": "AR698"
+  },
+  {
+    "city": "Pine Bluff",
+    "state": "AR",
+    "zip": "71601",
+    "comdata": "AR493"
+  },
+  {
+    "city": "Prescott",
+    "state": "AR",
+    "zip": "71857",
+    "comdata": "AR744"
+  },
+  {
+    "city": "Searcy",
+    "state": "AR",
+    "zip": "72143",
+    "comdata": "AR063"
+  },
+  {
+    "city": "West Memphis",
+    "state": "AR",
+    "zip": "72301",
+    "comdata": "AR422"
+  },
+  {
+    "city": "Malvern",
+    "state": "AR",
+    "zip": "72104",
+    "comdata": "AR149"
+  },
+  {
+    "city": "Clarksville",
+    "state": "AR",
+    "zip": "72830",
+    "comdata": "AR387"
+  },
+  {
+    "city": "Prescott",
+    "state": "AR",
+    "zip": "71857",
+    "comdata": "AR890"
+  },
+  {
+    "city": "Benson",
+    "state": "AZ",
+    "zip": "85602",
+    "comdata": "AZ303"
+  },
+  {
+    "city": "Buckeye",
+    "state": "AZ",
+    "zip": "85326",
+    "comdata": "AZ269"
+  },
+  {
+    "city": "Casa Grande/Eloy",
+    "state": "AZ",
+    "zip": "85122",
+    "comdata": "AZ290"
+  },
+  {
+    "city": "Chandler",
+    "state": "AZ",
+    "zip": "85224",
+    "comdata": "AZ068"
+  },
+  {
+    "city": "Gila Bend",
+    "state": "AZ",
+    "zip": "85337",
+    "comdata": "AZ284"
+  },
+  {
+    "city": "Joseph City",
+    "state": "AZ",
+    "zip": "86032",
+    "comdata": "AZ278"
+  },
+  {
+    "city": "Kingman",
+    "state": "AZ",
+    "zip": "86401",
+    "comdata": "AZ351"
+  },
+  {
+    "city": "Lake Havasu City",
+    "state": "AZ",
+    "zip": "86403",
+    "comdata": "AZ478"
+  },
+  {
+    "city": "Nogales",
+    "state": "AZ",
+    "zip": "85621",
+    "comdata": "AZ344"
+  },
+  {
+    "city": "Quartzsite",
+    "state": "AZ",
+    "zip": "85346",
+    "comdata": "AZ277"
+  },
+  {
+    "city": "Tolleson",
+    "state": "AZ",
+    "zip": "85353",
+    "comdata": "AZ545"
+  },
+  {
+    "city": "Williams",
+    "state": "AZ",
+    "zip": "86046",
+    "comdata": "AZ327"
+  },
+  {
+    "city": "Yuma",
+    "state": "AZ",
+    "zip": "85364",
+    "comdata": "AZ383"
+  },
+  {
+    "city": "Mayer/Cordes Junction",
+    "state": "AZ",
+    "zip": "86333",
+    "comdata": "AZ315"
+  },
+  {
+    "city": "Willcox",
+    "state": "AZ",
+    "zip": "85643",
+    "comdata": "AZ257"
+  },
+  {
+    "city": "Barstow",
+    "state": "CA",
+    "zip": "92311",
+    "comdata": "CA828"
+  },
+  {
+    "city": "Coachella",
+    "state": "CA",
+    "zip": "92236",
+    "comdata": "CA177"
+  },
+  {
+    "city": "Corning",
+    "state": "CA",
+    "zip": "96021",
+    "comdata": "CA425"
+  },
+  {
+    "city": "Lodi",
+    "state": "CA",
+    "zip": "95240",
+    "comdata": "CA093"
+  },
+  {
+    "city": "Lost Hills",
+    "state": "CA",
+    "zip": "93249",
+    "comdata": "CA554"
+  },
+  {
+    "city": "Ripon",
+    "state": "CA",
+    "zip": "95366",
+    "comdata": "CA333"
+  },
+  {
+    "city": "Santa Nella",
+    "state": "CA",
+    "zip": null,
+    "comdata": "CA428"
+  },
+  {
+    "city": "Tehachapi",
+    "state": "CA",
+    "zip": "93561",
+    "comdata": "CA483"
+  },
+  {
+    "city": "Tulare",
+    "state": "CA",
+    "zip": "93274",
+    "comdata": "CA815"
+  },
+  {
+    "city": "Williams",
+    "state": "CA",
+    "zip": "95987",
+    "comdata": "CL083"
+  },
+  {
+    "city": "Madera",
+    "state": "CA",
+    "zip": "93636",
+    "comdata": "CL107"
+  },
+  {
+    "city": "Westmorland",
+    "state": "CA",
+    "zip": "92281",
+    "comdata": "CL087"
+  },
+  {
+    "city": "Boron",
+    "state": "CA",
+    "zip": "93516",
+    "comdata": "CL142"
+  },
+  {
+    "city": "Patterson",
+    "state": "CA",
+    "zip": "95363",
+    "comdata": "CL266"
+  },
+  {
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "93301",
+    "comdata": "CE085"
+  },
+  {
+    "city": "Salinas",
+    "state": "CA",
+    "zip": "93901",
+    "comdata": "CL280"
+  },
+  {
+    "city": "Bennett",
+    "state": "CO",
+    "zip": "80102",
+    "comdata": "CO801"
+  },
+  {
+    "city": "Berthoud",
+    "state": "CO",
+    "zip": "80513",
+    "comdata": "CO011"
+  },
+  {
+    "city": "Brush",
+    "state": "CO",
+    "zip": "80723",
+    "comdata": "CO800"
+  },
+  {
+    "city": "Burlington",
+    "state": "CO",
+    "zip": "80807",
+    "comdata": "CO153"
+  },
+  {
+    "city": "Cortez",
+    "state": "CO",
+    "zip": "81321",
+    "comdata": "CO870"
+  },
+  {
+    "city": "Eads",
+    "state": "CO",
+    "zip": "81026",
+    "comdata": "CO350"
+  },
+  {
+    "city": "Grand Junction",
+    "state": "CO",
+    "zip": "81501",
+    "comdata": "CO120"
+  },
+  {
+    "city": "Hudson",
+    "state": "CO",
+    "zip": "80642",
+    "comdata": "CO600"
+  },
+  {
+    "city": "Lamar",
+    "state": "CO",
+    "zip": "81052",
+    "comdata": "CO434"
+  },
+  {
+    "city": "Pueblo",
+    "state": "CO",
+    "zip": "81001",
+    "comdata": "CO562"
+  },
+  {
+    "city": "Walsenburg",
+    "state": "CO",
+    "zip": "81066",
+    "comdata": "CO090"
+  },
+  {
+    "city": "Parachute",
+    "state": "CO",
+    "zip": "81635",
+    "comdata": "CO221"
+  },
+  {
+    "city": "Canon City",
+    "state": "CO",
+    "zip": "81212",
+    "comdata": "CO403"
+  },
+  {
+    "city": "Willington",
+    "state": "CT",
+    "zip": "06265",
+    "comdata": "CT023"
+  },
+  {
+    "city": "Auburndale/Polk City",
+    "state": "FL",
+    "zip": "33823",
+    "comdata": "FL035"
+  },
+  {
+    "city": "Bushnell",
+    "state": "FL",
+    "zip": "33513",
+    "comdata": "FL804"
+  },
+  {
+    "city": "Cottondale",
+    "state": "FL",
+    "zip": "32431",
+    "comdata": "FL364"
+  },
+  {
+    "city": "Davenport",
+    "state": "FL",
+    "zip": "33836",
+    "comdata": "FL160"
+  },
+  {
+    "city": "Ellisville",
+    "state": "FL",
+    "zip": null,
+    "comdata": "FL008"
+  },
+  {
+    "city": "Fort Myers",
+    "state": "FL",
+    "zip": "33900",
+    "comdata": "FL073"
+  },
+  {
+    "city": "Fort Pierce",
+    "state": "FL",
+    "zip": "34945",
+    "comdata": "FL428"
+  },
+  {
+    "city": "Fort Pierce",
+    "state": "FL",
+    "zip": "34945",
+    "comdata": "FL304"
+  },
+  {
+    "city": "Hawthorne",
+    "state": "FL",
+    "zip": "32640",
+    "comdata": "FL175"
+  },
+  {
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32099",
+    "comdata": "FL018"
+  },
+  {
+    "city": "Jasper",
+    "state": "FL",
+    "zip": "32052",
+    "comdata": "FL359"
+  },
+  {
+    "city": "Lake Wales",
+    "state": "FL",
+    "zip": "33853",
+    "comdata": "FL099"
+  },
+  {
+    "city": "Lee",
+    "state": "FL",
+    "zip": "32041",
+    "comdata": "FL707"
+  },
+  {
+    "city": "Moore Haven",
+    "state": "FL",
+    "zip": "33471",
+    "comdata": "FL205"
+  },
+  {
+    "city": "Mossy Head",
+    "state": "FL",
+    "zip": "32434",
+    "comdata": "FL074"
+  },
+  {
+    "city": "Ocala",
+    "state": "FL",
+    "zip": "34470",
+    "comdata": "FL344"
+  },
+  {
+    "city": "Ormond Beach",
+    "state": "FL",
+    "zip": "32173",
+    "comdata": "FL233"
+  },
+  {
+    "city": "Baldwin/Jacksonville",
+    "state": "FL",
+    "zip": "32099",
+    "comdata": "FL288"
+  },
+  {
+    "city": "Mims",
+    "state": "FL",
+    "zip": "32754",
+    "comdata": "FL399"
+  },
+  {
+    "city": "Milton",
+    "state": "FL",
+    "zip": "32570",
+    "comdata": "FL422"
+  },
+  {
+    "city": "Jacksonville/Duval",
+    "state": "FL",
+    "zip": "32099",
+    "comdata": "FL038"
+  },
+  {
+    "city": "St. Augustine",
+    "state": "FL",
+    "zip": null,
+    "comdata": "FL455"
+  },
+  {
+    "city": "Emerson/Cartersville",
+    "state": "GA",
+    "zip": "30137",
+    "comdata": "GA735"
+  },
+  {
+    "city": "Brunswick",
+    "state": "GA",
+    "zip": "31520",
+    "comdata": "GA432"
+  },
+  {
+    "city": "Commerce",
+    "state": "GA",
+    "zip": "30529",
+    "comdata": "GA601"
+  },
+  {
+    "city": "Dublin",
+    "state": "GA",
+    "zip": "31021",
+    "comdata": "GA552"
+  },
+  {
+    "city": "Hogansville",
+    "state": "GA",
+    "zip": "30230",
+    "comdata": "GA971"
+  },
+  {
+    "city": "Jackson",
+    "state": "GA",
+    "zip": "30233",
+    "comdata": "GA033"
+  },
+  {
+    "city": "Macon",
+    "state": "GA",
+    "zip": "31201",
+    "comdata": "GA419"
+  },
+  {
+    "city": "Richmond Hill",
+    "state": "GA",
+    "zip": "31324",
+    "comdata": "GA814"
+  },
+  {
+    "city": "Thomson",
+    "state": "GA",
+    "zip": "30824",
+    "comdata": "GA540"
+  },
+  {
+    "city": "Tifton",
+    "state": "GA",
+    "zip": "31793",
+    "comdata": "GA294"
+  },
+  {
+    "city": "Waco",
+    "state": "GA",
+    "zip": "30182",
+    "comdata": "GA165"
+  },
+  {
+    "city": "Calhoun",
+    "state": "GA",
+    "zip": "30701",
+    "comdata": "GA599"
+  },
+  {
+    "city": "Ellabell",
+    "state": "GA",
+    "zip": "31308",
+    "comdata": "GE003"
+  },
+  {
+    "city": "Madison",
+    "state": "GA",
+    "zip": "30650",
+    "comdata": "GE006"
+  },
+  {
+    "city": "Cordele",
+    "state": "GA",
+    "zip": "31010",
+    "comdata": "GE019"
+  },
+  {
+    "city": "Albany",
+    "state": "GA",
+    "zip": "31701",
+    "comdata": "GE808"
+  },
+  {
+    "city": "Garden City",
+    "state": "GA",
+    "zip": null,
+    "comdata": "GE033"
+  },
+  {
+    "city": "Rincon",
+    "state": "GA",
+    "zip": "31326",
+    "comdata": "GE819"
+  },
+  {
+    "city": "West Point",
+    "state": "GA",
+    "zip": "31833",
+    "comdata": "GE203"
+  },
+  {
+    "city": "Davenport",
+    "state": "IA",
+    "zip": "52800",
+    "comdata": "IA384"
+  },
+  {
+    "city": "Des Moines/Clive",
+    "state": "IA",
+    "zip": "50265",
+    "comdata": "IA432"
+  },
+  {
+    "city": "Ellsworth",
+    "state": "IA",
+    "zip": "50075",
+    "comdata": "IA442"
+  },
+  {
+    "city": "Floyd",
+    "state": "IA",
+    "zip": "50435",
+    "comdata": "IA441"
+  },
+  {
+    "city": "Mills County",
+    "state": "IA",
+    "zip": null,
+    "comdata": "IA524"
+  },
+  {
+    "city": "Newton",
+    "state": "IA",
+    "zip": "50208",
+    "comdata": "IA589"
+  },
+  {
+    "city": "Shelby",
+    "state": "IA",
+    "zip": "51570",
+    "comdata": "IA065"
+  },
+  {
+    "city": "Sioux City",
+    "state": "IA",
+    "zip": "51101",
+    "comdata": "IA598"
+  },
+  {
+    "city": "Waterloo",
+    "state": "IA",
+    "zip": "50701",
+    "comdata": "IA525"
+  },
+  {
+    "city": "Le Mars",
+    "state": "IA",
+    "zip": "51031",
+    "comdata": "IA531"
+  },
+  {
+    "city": "Muscatine",
+    "state": "IA",
+    "zip": "52761",
+    "comdata": "IA090"
+  },
+  {
+    "city": "Heyburn",
+    "state": "ID",
+    "zip": "83336",
+    "comdata": "ID111"
+  },
+  {
+    "city": "Idaho Falls",
+    "state": "ID",
+    "zip": "83401",
+    "comdata": "ID331"
+  },
+  {
+    "city": "Post Falls",
+    "state": "ID",
+    "zip": "83854",
+    "comdata": "ID330"
+  },
+  {
+    "city": "Bliss",
+    "state": "ID",
+    "zip": "83314",
+    "comdata": "ID056"
+  },
+  {
+    "city": "Atkinson",
+    "state": "IL",
+    "zip": "61235",
+    "comdata": "IL862"
+  },
+  {
+    "city": "Decatur",
+    "state": "IL",
+    "zip": "62521",
+    "comdata": "IL827"
+  },
+  {
+    "city": "Dwight",
+    "state": "IL",
+    "zip": "60420",
+    "comdata": "IL745"
+  },
+  {
+    "city": "Greenup",
+    "state": "IL",
+    "zip": "62428",
+    "comdata": "IL213"
+  },
+  {
+    "city": "Greenville",
+    "state": "IL",
+    "zip": "62246",
+    "comdata": "IL670"
+  },
+  {
+    "city": "Hamel",
+    "state": "IL",
+    "zip": "62046",
+    "comdata": "IL195"
+  },
+  {
+    "city": "Hampshire",
+    "state": "IL",
+    "zip": "60140",
+    "comdata": "IL846"
+  },
+  {
+    "city": "Ina",
+    "state": "IL",
+    "zip": "60157",
+    "comdata": "IL456"
+  },
+  {
+    "city": "Kankakee",
+    "state": "IL",
+    "zip": "60901",
+    "comdata": "IL682"
+  },
+  {
+    "city": "Knoxville/Galesburg",
+    "state": "IL",
+    "zip": "61448",
+    "comdata": "IL212"
+  },
+  {
+    "city": "Leroy",
+    "state": "IL",
+    "zip": "61027",
+    "comdata": "IL944"
+  },
+  {
+    "city": "New Baden",
+    "state": "IL",
+    "zip": "62265",
+    "comdata": "IL149"
+  },
+  {
+    "city": "Oakwood",
+    "state": "IL",
+    "zip": "61858",
+    "comdata": "IL486"
+  },
+  {
+    "city": "Oglesby",
+    "state": "IL",
+    "zip": "61348",
+    "comdata": "IL506"
+  },
+  {
+    "city": "Rochelle",
+    "state": "IL",
+    "zip": "61068",
+    "comdata": "IL844"
+  },
+  {
+    "city": "Roscoe",
+    "state": "IL",
+    "zip": "61073",
+    "comdata": "IL165"
+  },
+  {
+    "city": "South Holland",
+    "state": "IL",
+    "zip": "60473",
+    "comdata": "IL358"
+  },
+  {
+    "city": "South Jacksonville",
+    "state": "IL",
+    "zip": null,
+    "comdata": "IL439"
+  },
+  {
+    "city": "Utica",
+    "state": "IL",
+    "zip": "61373",
+    "comdata": "IL672"
+  },
+  {
+    "city": "Williamsville",
+    "state": "IL",
+    "zip": "62693",
+    "comdata": "IL013"
+  },
+  {
+    "city": "Sauget",
+    "state": "IL",
+    "zip": null,
+    "comdata": "IL912"
+  },
+  {
+    "city": "Wadsworth",
+    "state": "IL",
+    "zip": "60083",
+    "comdata": "IL929"
+  },
+  {
+    "city": "Monmouth",
+    "state": "IL",
+    "zip": "61462",
+    "comdata": "IL936"
+  },
+  {
+    "city": "Tuscola",
+    "state": "IL",
+    "zip": "61953",
+    "comdata": "IL951"
+  },
+  {
+    "city": "Marion",
+    "state": "IL",
+    "zip": "62959",
+    "comdata": "IL953"
+  },
+  {
+    "city": "Rockford",
+    "state": "IL",
+    "zip": "61101",
+    "comdata": "IE003"
+  },
+  {
+    "city": "Olney",
+    "state": "IL",
+    "zip": "62450",
+    "comdata": "IE002"
+  },
+  {
+    "city": "Channahon",
+    "state": "IL",
+    "zip": "60410",
+    "comdata": "IE006"
+  },
+  {
+    "city": "Elk Grove Village",
+    "state": "IL",
+    "zip": "60007",
+    "comdata": "IE001"
+  },
+  {
+    "city": "Grant Park",
+    "state": "IL",
+    "zip": "60940",
+    "comdata": "IL746"
+  },
+  {
+    "city": "Mt Vernon",
+    "state": "IL",
+    "zip": null,
+    "comdata": "IE062"
+  },
+  {
+    "city": "Monroe Center",
+    "state": "IL",
+    "zip": "61052",
+    "comdata": "IE063"
+  },
+  {
+    "city": "Morris",
+    "state": "IL",
+    "zip": "60450",
+    "comdata": "IL937"
+  },
+  {
+    "city": "Normal",
+    "state": "IL",
+    "zip": "61761",
+    "comdata": "IL913"
+  },
+  {
+    "city": "Angola",
+    "state": "IN",
+    "zip": "46703",
+    "comdata": "IN115"
+  },
+  {
+    "city": "Belleville/Mooresville",
+    "state": "IN",
+    "zip": "46158",
+    "comdata": "IN661"
+  },
+  {
+    "city": "Demotte",
+    "state": "IN",
+    "zip": "46310",
+    "comdata": "IN471"
+  },
+  {
+    "city": "Elkhart",
+    "state": "IN",
+    "zip": "46514",
+    "comdata": "IN165"
+  },
+  {
+    "city": "Gary",
+    "state": "IN",
+    "zip": "46401",
+    "comdata": "IN434"
+  },
+  {
+    "city": "Haubstadt/Evansville",
+    "state": "IN",
+    "zip": "47639",
+    "comdata": "IN433"
+  },
+  {
+    "city": "Ingalls/Pendleton",
+    "state": "IN",
+    "zip": "46048",
+    "comdata": "IN449"
+  },
+  {
+    "city": "Knightstown",
+    "state": "IN",
+    "zip": "46148",
+    "comdata": "IN097"
+  },
+  {
+    "city": "Marion",
+    "state": "IN",
+    "zip": "46952",
+    "comdata": "IN306"
+  },
+  {
+    "city": "Memphis",
+    "state": "IN",
+    "zip": "47143",
+    "comdata": "IN928"
+  },
+  {
+    "city": "Michigan City",
+    "state": "IN",
+    "zip": "46360",
+    "comdata": "IN0330"
+  },
+  {
+    "city": "Pittsboro",
+    "state": "IN",
+    "zip": "46167",
+    "comdata": "IN538"
+  },
+  {
+    "city": "Plymouth",
+    "state": "IN",
+    "zip": "46563",
+    "comdata": "IN550"
+  },
+  {
+    "city": "Richmond",
+    "state": "IN",
+    "zip": "47374",
+    "comdata": "IN710"
+  },
+  {
+    "city": "St Paul",
+    "state": "IN",
+    "zip": null,
+    "comdata": "IN610"
+  },
+  {
+    "city": "Terre Haute",
+    "state": "IN",
+    "zip": "47801",
+    "comdata": "IN137"
+  },
+  {
+    "city": "Tipton",
+    "state": "IN",
+    "zip": "46072",
+    "comdata": "IN055"
+  },
+  {
+    "city": "Whiteland",
+    "state": "IN",
+    "zip": "46184",
+    "comdata": "IN435"
+  },
+  {
+    "city": "Whitestown",
+    "state": "IN",
+    "zip": "46075",
+    "comdata": "IN460"
+  },
+  {
+    "city": "Woodburn",
+    "state": "IN",
+    "zip": "46797",
+    "comdata": "IN012"
+  },
+  {
+    "city": "Huntington",
+    "state": "IN",
+    "zip": "46750",
+    "comdata": "IN937"
+  },
+  {
+    "city": "Leavenworth",
+    "state": "IN",
+    "zip": "47137",
+    "comdata": "IN973"
+  },
+  {
+    "city": "Lafayette",
+    "state": "IN",
+    "zip": "47901",
+    "comdata": "IN370"
+  },
+  {
+    "city": "Abilene",
+    "state": "KS",
+    "zip": "67410",
+    "comdata": "KS010"
+  },
+  {
+    "city": "Belleville",
+    "state": "KS",
+    "zip": "66935",
+    "comdata": "KS136"
+  },
+  {
+    "city": "Chanute",
+    "state": "KS",
+    "zip": "66720",
+    "comdata": "KS196"
+  },
+  {
+    "city": "Cunningham",
+    "state": "KS",
+    "zip": "67035",
+    "comdata": "KS345"
+  },
+  {
+    "city": "Dodge City",
+    "state": "KS",
+    "zip": "67801",
+    "comdata": "KS119"
+  },
+  {
+    "city": "Ellis",
+    "state": "KS",
+    "zip": "67637",
+    "comdata": "KS488"
+  },
+  {
+    "city": "Holcomb",
+    "state": "KS",
+    "zip": "67851",
+    "comdata": "KS423"
+  },
+  {
+    "city": "Liberal",
+    "state": "KS",
+    "zip": "67901",
+    "comdata": "KS336"
+  },
+  {
+    "city": "McPherson",
+    "state": "KS",
+    "zip": "67460",
+    "comdata": "KS299"
+  },
+  {
+    "city": "Norton",
+    "state": "KS",
+    "zip": "66060",
+    "comdata": "KS087"
+  },
+  {
+    "city": "Ottawa",
+    "state": "KS",
+    "zip": "66067",
+    "comdata": "KS660"
+  },
+  {
+    "city": "Scott City",
+    "state": "KS",
+    "zip": "67871",
+    "comdata": "KS553"
+  },
+  {
+    "city": "South Hutchinson",
+    "state": "KS",
+    "zip": "67505",
+    "comdata": "KS433"
+  },
+  {
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66601",
+    "comdata": "KS150"
+  },
+  {
+    "city": "Garden City",
+    "state": "KS",
+    "zip": "67846",
+    "comdata": "KS597"
+  },
+  {
+    "city": "Calvert City",
+    "state": "KY",
+    "zip": "42029",
+    "comdata": "KY328"
+  },
+  {
+    "city": "Corbin",
+    "state": "KY",
+    "zip": "40701",
+    "comdata": "KY089"
+  },
+  {
+    "city": "Elizabethtown",
+    "state": "KY",
+    "zip": "42701",
+    "comdata": "KY558"
+  },
+  {
+    "city": "Grayson",
+    "state": "KY",
+    "zip": "41143",
+    "comdata": "KY440"
+  },
+  {
+    "city": "Hanson",
+    "state": "KY",
+    "zip": "42413",
+    "comdata": "KY071"
+  },
+  {
+    "city": "Horse Cave",
+    "state": "KY",
+    "zip": "42749",
+    "comdata": "KY994"
+  },
+  {
+    "city": "Louisville/Shepherdsville",
+    "state": "KY",
+    "zip": "40201",
+    "comdata": "KY415"
+  },
+  {
+    "city": "Richmond",
+    "state": "KY",
+    "zip": "40475",
+    "comdata": "KY039"
+  },
+  {
+    "city": "Sadieville",
+    "state": "KY",
+    "zip": "40370",
+    "comdata": "KY580"
+  },
+  {
+    "city": "Sparta/Sanders",
+    "state": "KY",
+    "zip": "41086",
+    "comdata": "KY970"
+  },
+  {
+    "city": "Waddy",
+    "state": "KY",
+    "zip": "40076",
+    "comdata": "KY886"
+  },
+  {
+    "city": "Hopkinsville/Oak Grove",
+    "state": "KY",
+    "zip": "42240",
+    "comdata": "KY383"
+  },
+  {
+    "city": "Boyce",
+    "state": "LA",
+    "zip": "71409",
+    "comdata": "LA016"
+  },
+  {
+    "city": "Duson/Rayne",
+    "state": "LA",
+    "zip": "70529",
+    "comdata": "LA552"
+  },
+  {
+    "city": "Greenwood",
+    "state": "LA",
+    "zip": "71033",
+    "comdata": "LA018"
+  },
+  {
+    "city": "Lake Charles/Iowa",
+    "state": "LA",
+    "zip": "70601",
+    "comdata": "LA461"
+  },
+  {
+    "city": "Minden",
+    "state": "LA",
+    "zip": "71055",
+    "comdata": "LA793"
+  },
+  {
+    "city": "Port Allen",
+    "state": "LA",
+    "zip": "70767",
+    "comdata": "LA459"
+  },
+  {
+    "city": "Port Barre",
+    "state": "LA",
+    "zip": "70577",
+    "comdata": "LA358"
+  },
+  {
+    "city": "Tallulah",
+    "state": "LA",
+    "zip": "71282",
+    "comdata": "LA582"
+  },
+  {
+    "city": "Vinton",
+    "state": "LA",
+    "zip": "70668",
+    "comdata": "LA689"
+  },
+  {
+    "city": "Monroe",
+    "state": "LA",
+    "zip": "71201",
+    "comdata": "LA806"
+  },
+  {
+    "city": "Mansfield",
+    "state": "LA",
+    "zip": "71052",
+    "comdata": "LA030"
+  },
+  {
+    "city": "Opelousas",
+    "state": "LA",
+    "zip": "70570",
+    "comdata": "LA211"
+  },
+  {
+    "city": "SHREVEPORT",
+    "state": "LA",
+    "zip": "71101",
+    "comdata": "LA206"
+  },
+  {
+    "city": "Cumberland",
+    "state": "MD",
+    "zip": "21501",
+    "comdata": "MD080"
+  },
+  {
+    "city": "Hagerstown",
+    "state": "MD",
+    "zip": "21740",
+    "comdata": "MD205"
+  },
+  {
+    "city": "Bridgeport",
+    "state": "MI",
+    "zip": "48722",
+    "comdata": "MI237"
+  },
+  {
+    "city": "Capac",
+    "state": "MI",
+    "zip": "48014",
+    "comdata": "MI311"
+  },
+  {
+    "city": "Frenchtown/Monroe",
+    "state": "MI",
+    "zip": "48161",
+    "comdata": "MI211"
+  },
+  {
+    "city": "Holland",
+    "state": "MI",
+    "zip": "49422",
+    "comdata": "MI231"
+  },
+  {
+    "city": "Marshall",
+    "state": "MI",
+    "zip": "49068",
+    "comdata": "MI595"
+  },
+  {
+    "city": "Milan",
+    "state": "MI",
+    "zip": "48160",
+    "comdata": "MI263"
+  },
+  {
+    "city": "Grand Ledge",
+    "state": "MI",
+    "zip": "48837",
+    "comdata": "MI262"
+  },
+  {
+    "city": "St Clair",
+    "state": "MI",
+    "zip": null,
+    "comdata": "MI244"
+  },
+  {
+    "city": "Alamo",
+    "state": "MI",
+    "zip": null,
+    "comdata": "MI878"
+  },
+  {
+    "city": "Albert Lea",
+    "state": "MN",
+    "zip": "56007",
+    "comdata": "MN661"
+  },
+  {
+    "city": "St Charles",
+    "state": "MN",
+    "zip": null,
+    "comdata": "MN354"
+  },
+  {
+    "city": "Rockville",
+    "state": "MN",
+    "zip": "56369",
+    "comdata": "MN972"
+  },
+  {
+    "city": "Columbus",
+    "state": "MN",
+    "zip": null,
+    "comdata": "MN080"
+  },
+  {
+    "city": "Bevier",
+    "state": "MO",
+    "zip": "63532",
+    "comdata": "MO029"
+  },
+  {
+    "city": "Bloomsdale",
+    "state": "MO",
+    "zip": "63627",
+    "comdata": "MO940"
+  },
+  {
+    "city": "Boonville",
+    "state": "MO",
+    "zip": "65233",
+    "comdata": "MO973"
+  },
+  {
+    "city": "Bridgeton",
+    "state": "MO",
+    "zip": "63044",
+    "comdata": "MO545"
+  },
+  {
+    "city": "Eagleville",
+    "state": "MO",
+    "zip": "64442",
+    "comdata": "MO980"
+  },
+  {
+    "city": "Harrisonville",
+    "state": "MO",
+    "zip": "64701",
+    "comdata": "MO176"
+  },
+  {
+    "city": "Joplin",
+    "state": "MO",
+    "zip": "64801",
+    "comdata": "MO681"
+  },
+  {
+    "city": "Matthews",
+    "state": "MO",
+    "zip": "63867",
+    "comdata": "MO373"
+  },
+  {
+    "city": "Neosho",
+    "state": "MO",
+    "zip": "64850",
+    "comdata": "MO935"
+  },
+  {
+    "city": "New London",
+    "state": "MO",
+    "zip": "63459",
+    "comdata": "MO441"
+  },
+  {
+    "city": "Rolla",
+    "state": "MO",
+    "zip": "65401",
+    "comdata": "MO927"
+  },
+  {
+    "city": "Sikeston",
+    "state": "MO",
+    "zip": "63801",
+    "comdata": "MO554"
+  },
+  {
+    "city": "St Louis",
+    "state": "MO",
+    "zip": null,
+    "comdata": "MO115"
+  },
+  {
+    "city": "St. Joseph",
+    "state": "MO",
+    "zip": null,
+    "comdata": "MO068"
+  },
+  {
+    "city": "Strafford",
+    "state": "MO",
+    "zip": "65757",
+    "comdata": "MO274"
+  },
+  {
+    "city": "Willow Springs",
+    "state": "MO",
+    "zip": "65793",
+    "comdata": "MO237"
+  },
+  {
+    "city": "New Florence",
+    "state": "MO",
+    "zip": "63363",
+    "comdata": "MO264"
+  },
+  {
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64101",
+    "comdata": "MO786"
+  },
+  {
+    "city": "Bates City",
+    "state": "MO",
+    "zip": "64011",
+    "comdata": "MO407"
+  },
+  {
+    "city": "Cameron",
+    "state": "MO",
+    "zip": "64429",
+    "comdata": "MO469"
+  },
+  {
+    "city": "Sarcoxie",
+    "state": "MO",
+    "zip": "64862",
+    "comdata": "MO086"
+  },
+  {
+    "city": "Herculaneum",
+    "state": "MO",
+    "zip": "63048",
+    "comdata": "MO163"
+  },
+  {
+    "city": "Batesville",
+    "state": "MS",
+    "zip": "38606",
+    "comdata": "MS667"
+  },
+  {
+    "city": "Biloxi",
+    "state": "MS",
+    "zip": "39530",
+    "comdata": "MS440"
+  },
+  {
+    "city": "Canton",
+    "state": "MS",
+    "zip": "39046",
+    "comdata": "MS833"
+  },
+  {
+    "city": "Columbus",
+    "state": "MS",
+    "zip": "39701",
+    "comdata": "MS069"
+  },
+  {
+    "city": "Flowood/Jackson",
+    "state": "MS",
+    "zip": "39232",
+    "comdata": "MS441"
+  },
+  {
+    "city": "Gulfport",
+    "state": "MS",
+    "zip": "39500",
+    "comdata": "MS152"
+  },
+  {
+    "city": "Indianola",
+    "state": "MS",
+    "zip": "38751",
+    "comdata": "MS068"
+  },
+  {
+    "city": "Lake",
+    "state": "MS",
+    "zip": "38637",
+    "comdata": "MS186"
+  },
+  {
+    "city": "Magee",
+    "state": "MS",
+    "zip": "39111",
+    "comdata": "MS270"
+  },
+  {
+    "city": "Magnolia/McComb",
+    "state": "MS",
+    "zip": "39652",
+    "comdata": "MS668"
+  },
+  {
+    "city": "Nicholson",
+    "state": "MS",
+    "zip": "39463",
+    "comdata": "MS060"
+  },
+  {
+    "city": "Poplarville",
+    "state": "MS",
+    "zip": "39470",
+    "comdata": "MS235"
+  },
+  {
+    "city": "Toomsuba",
+    "state": "MS",
+    "zip": "39364",
+    "comdata": "MS709"
+  },
+  {
+    "city": "Tupelo",
+    "state": "MS",
+    "zip": "38801",
+    "comdata": "MS885"
+  },
+  {
+    "city": "West Point",
+    "state": "MS",
+    "zip": "39773",
+    "comdata": "MS419"
+  },
+  {
+    "city": "Vicksburg",
+    "state": "MS",
+    "zip": "39180",
+    "comdata": "MS043"
+  },
+  {
+    "city": "Walnut",
+    "state": "MS",
+    "zip": "38683",
+    "comdata": "MS044"
+  },
+  {
+    "city": "Sandersville",
+    "state": "MS",
+    "zip": "39477",
+    "comdata": "MS848"
+  },
+  {
+    "city": "Holly Springs",
+    "state": "MS",
+    "zip": "38634",
+    "comdata": "MS889"
+  },
+  {
+    "city": "Lucedale",
+    "state": "MS",
+    "zip": "39452",
+    "comdata": "MS808"
+  },
+  {
+    "city": "Hardin",
+    "state": "MT",
+    "zip": "59034",
+    "comdata": "MT358"
+  },
+  {
+    "city": "Missoula",
+    "state": "MT",
+    "zip": "59801",
+    "comdata": "MT011"
+  },
+  {
+    "city": "Great Falls",
+    "state": "MT",
+    "zip": "59401",
+    "comdata": "MT019"
+  },
+  {
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28201",
+    "comdata": "NC007"
+  },
+  {
+    "city": "Dunn",
+    "state": "NC",
+    "zip": "28334",
+    "comdata": "NC443"
+  },
+  {
+    "city": "Marion",
+    "state": "NC",
+    "zip": "28752",
+    "comdata": "NC174"
+  },
+  {
+    "city": "Mebane",
+    "state": "NC",
+    "zip": "27302",
+    "comdata": "NC432"
+  },
+  {
+    "city": "Newton",
+    "state": "NC",
+    "zip": "28366",
+    "comdata": "NC430"
+  },
+  {
+    "city": "Reidsville",
+    "state": "NC",
+    "zip": "27320",
+    "comdata": "NC005"
+  },
+  {
+    "city": "Salisbury",
+    "state": "NC",
+    "zip": "28144",
+    "comdata": "NC307"
+  },
+  {
+    "city": "Statesville",
+    "state": "NC",
+    "zip": "28625",
+    "comdata": "NC002"
+  },
+  {
+    "city": "Rural Hall",
+    "state": "NC",
+    "zip": "27045",
+    "comdata": "NC739"
+  },
+  {
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "58078",
+    "comdata": "ND581"
+  },
+  {
+    "city": "Williston",
+    "state": "ND",
+    "zip": "58801",
+    "comdata": "ND777"
+  },
+  {
+    "city": "Valley City",
+    "state": "ND",
+    "zip": "58072",
+    "comdata": "ND031"
+  },
+  {
+    "city": "Drayton",
+    "state": "ND",
+    "zip": "58225",
+    "comdata": "ND041"
+  },
+  {
+    "city": "Aurora",
+    "state": "NE",
+    "zip": "68818",
+    "comdata": "NE016"
+  },
+  {
+    "city": "Norfolk",
+    "state": "NE",
+    "zip": "68701",
+    "comdata": "NE442"
+  },
+  {
+    "city": "North Platte",
+    "state": "NE",
+    "zip": "69101",
+    "comdata": "NE864"
+  },
+  {
+    "city": "Sidney",
+    "state": "NE",
+    "zip": "69160",
+    "comdata": "NE543"
+  },
+  {
+    "city": "Syracuse",
+    "state": "NE",
+    "zip": "68446",
+    "comdata": "NE345"
+  },
+  {
+    "city": "Valley",
+    "state": "NE",
+    "zip": "68064",
+    "comdata": "NE099"
+  },
+  {
+    "city": "Schuyler",
+    "state": "NE",
+    "zip": "68661",
+    "comdata": "NE108"
+  },
+  {
+    "city": "Papillion/Omaha",
+    "state": "NE",
+    "zip": "68046",
+    "comdata": "NE123"
+  },
+  {
+    "city": "Bordentown",
+    "state": "NJ",
+    "zip": "08505",
+    "comdata": "NJ448"
+  },
+  {
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87101",
+    "comdata": "NM140"
+  },
+  {
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87101",
+    "comdata": "NM060"
+  },
+  {
+    "city": "Belen",
+    "state": "NM",
+    "zip": "87002",
+    "comdata": "NM397"
+  },
+  {
+    "city": "Clayton",
+    "state": "NM",
+    "zip": "88415",
+    "comdata": "NM475"
+  },
+  {
+    "city": "Clovis",
+    "state": "NM",
+    "zip": "88101",
+    "comdata": "NM466"
+  },
+  {
+    "city": "Eunice",
+    "state": "NM",
+    "zip": "88231",
+    "comdata": "NM057"
+  },
+  {
+    "city": "Gallup",
+    "state": "NM",
+    "zip": "87301",
+    "comdata": "NM026"
+  },
+  {
+    "city": "Las Cruces",
+    "state": "NM",
+    "zip": "88001",
+    "comdata": "NM061"
+  },
+  {
+    "city": "Las Vegas",
+    "state": "NM",
+    "zip": "87701",
+    "comdata": "NM013"
+  },
+  {
+    "city": "Lordsburg",
+    "state": "NM",
+    "zip": "88045",
+    "comdata": "NM445"
+  },
+  {
+    "city": "Milan",
+    "state": "NM",
+    "zip": "87021",
+    "comdata": "NM062"
+  },
+  {
+    "city": "Santa Rosa",
+    "state": "NM",
+    "zip": "88435",
+    "comdata": "NM464"
+  },
+  {
+    "city": "Tucumcari",
+    "state": "NM",
+    "zip": "88401",
+    "comdata": "NM406"
+  },
+  {
+    "city": "Santa Teresa",
+    "state": "NM",
+    "zip": "88008",
+    "comdata": "NM118"
+  },
+  {
+    "city": "Ely",
+    "state": "NV",
+    "zip": "89301",
+    "comdata": "NV248"
+  },
+  {
+    "city": "Fernley",
+    "state": "NV",
+    "zip": "89408",
+    "comdata": "NV016"
+  },
+  {
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89030",
+    "comdata": "NV592"
+  },
+  {
+    "city": "Wells",
+    "state": "NV",
+    "zip": "89835",
+    "comdata": "NV981"
+  },
+  {
+    "city": "Winnemucca",
+    "state": "NV",
+    "zip": "89445",
+    "comdata": "NV179"
+  },
+  {
+    "city": "Tonopah",
+    "state": "NV",
+    "zip": "89049",
+    "comdata": "NV804"
+  },
+  {
+    "city": "Jackpot",
+    "state": "NV",
+    "zip": "89825",
+    "comdata": "NV219"
+  },
+  {
+    "city": "Binghamton",
+    "state": "NY",
+    "zip": "13901",
+    "comdata": "NY448"
+  },
+  {
+    "city": "Canaan",
+    "state": "NY",
+    "zip": "12029",
+    "comdata": "NY947"
+  },
+  {
+    "city": "Bath",
+    "state": "NY",
+    "zip": "14810",
+    "comdata": "NY772"
+  },
+  {
+    "city": "Ripley",
+    "state": "NY",
+    "zip": "14775",
+    "comdata": "NY711"
+  },
+  {
+    "city": "Tyre/Waterloo",
+    "state": "NY",
+    "zip": "13165",
+    "comdata": "NY326"
+  },
+  {
+    "city": "Pamelia",
+    "state": "NY",
+    "zip": null,
+    "comdata": "NY910"
+  },
+  {
+    "city": "Bellville",
+    "state": "OH",
+    "zip": "44813",
+    "comdata": "OH302"
+  },
+  {
+    "city": "Bidwell",
+    "state": "OH",
+    "zip": "45614",
+    "comdata": "OH856"
+  },
+  {
+    "city": "Circleville",
+    "state": "OH",
+    "zip": "43113",
+    "comdata": "OH270"
+  },
+  {
+    "city": "Conneaut",
+    "state": "OH",
+    "zip": "44030",
+    "comdata": "OH442"
+  },
+  {
+    "city": "Dayton",
+    "state": "OH",
+    "zip": "45401",
+    "comdata": "OH120"
+  },
+  {
+    "city": "Hubbard",
+    "state": "OH",
+    "zip": "44425",
+    "comdata": "OH304"
+  },
+  {
+    "city": "Jeffersonville",
+    "state": "OH",
+    "zip": "43128",
+    "comdata": "OH883"
+  },
+  {
+    "city": "Lodi/Burbank",
+    "state": "OH",
+    "zip": "44254",
+    "comdata": "OH431"
+  },
+  {
+    "city": "N Baltimore",
+    "state": "OH",
+    "zip": null,
+    "comdata": "OH516"
+  },
+  {
+    "city": "Perrysburg/Lake Township",
+    "state": "OH",
+    "zip": "43551",
+    "comdata": "OH467"
+  },
+  {
+    "city": "Sidney",
+    "state": "OH",
+    "zip": "45365",
+    "comdata": "OH361"
+  },
+  {
+    "city": "Springfield",
+    "state": "OH",
+    "zip": "43925",
+    "comdata": "OH358"
+  },
+  {
+    "city": "Upper Sandusky",
+    "state": "OH",
+    "zip": "43351",
+    "comdata": "OH424"
+  },
+  {
+    "city": "Zanesville",
+    "state": "OH",
+    "zip": "43701",
+    "comdata": "OH780"
+  },
+  {
+    "city": "Edon",
+    "state": "OH",
+    "zip": "43314",
+    "comdata": "OH845"
+  },
+  {
+    "city": "Obetz",
+    "state": "OH",
+    "zip": null,
+    "comdata": "OH869"
+  },
+  {
+    "city": "Napoleon",
+    "state": "OH",
+    "zip": "43545",
+    "comdata": "OH889"
+  },
+  {
+    "city": "Diamond/Palmyra Township",
+    "state": "OH",
+    "zip": "44412",
+    "comdata": "OH988"
+  },
+  {
+    "city": "Etna",
+    "state": "OH",
+    "zip": "43018",
+    "comdata": "OH976"
+  },
+  {
+    "city": "Bellefontaine",
+    "state": "OH",
+    "zip": "43311",
+    "comdata": "OH984"
+  },
+  {
+    "city": "North Canton",
+    "state": "OH",
+    "zip": null,
+    "comdata": "OH989"
+  },
+  {
+    "city": "Madison",
+    "state": "OH",
+    "zip": "44057",
+    "comdata": "OI014"
+  },
+  {
+    "city": "Lancaster",
+    "state": "OH",
+    "zip": "43130",
+    "comdata": "OI003"
+  },
+  {
+    "city": "North Lima",
+    "state": "OH",
+    "zip": "44452",
+    "comdata": "OI021"
+  },
+  {
+    "city": "Delphos",
+    "state": "OH",
+    "zip": "45833",
+    "comdata": "OI022"
+  },
+  {
+    "city": "Ardmore",
+    "state": "OK",
+    "zip": "73401",
+    "comdata": "OK329"
+  },
+  {
+    "city": "Atoka",
+    "state": "OK",
+    "zip": "74525",
+    "comdata": "OK355"
+  },
+  {
+    "city": "Big Cabin",
+    "state": "OK",
+    "zip": "74332",
+    "comdata": "OK322"
+  },
+  {
+    "city": "Boise City",
+    "state": "OK",
+    "zip": "73933",
+    "comdata": "OK539"
+  },
+  {
+    "city": "Chouteau",
+    "state": "OK",
+    "zip": "74337",
+    "comdata": "OK440"
+  },
+  {
+    "city": "Clinton",
+    "state": "OK",
+    "zip": "73601",
+    "comdata": "OK257"
+  },
+  {
+    "city": "Colbert/Calera",
+    "state": "OK",
+    "zip": "74733",
+    "comdata": "OK636"
+  },
+  {
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73100",
+    "comdata": "OK108"
+  },
+  {
+    "city": "El Reno",
+    "state": "OK",
+    "zip": "73036",
+    "comdata": "OK020"
+  },
+  {
+    "city": "Elk City",
+    "state": "OK",
+    "zip": "73644",
+    "comdata": "OK150"
+  },
+  {
+    "city": "Enid",
+    "state": "OK",
+    "zip": "73701",
+    "comdata": "OK706"
+  },
+  {
+    "city": "Erick",
+    "state": "OK",
+    "zip": "73542",
+    "comdata": "OK260"
+  },
+  {
+    "city": "Eufaula",
+    "state": "OK",
+    "zip": "74432",
+    "comdata": "OK474"
+  },
+  {
+    "city": "Guthrie",
+    "state": "OK",
+    "zip": "73044",
+    "comdata": "OK948"
+  },
+  {
+    "city": "Hinton",
+    "state": "OK",
+    "zip": "73047",
+    "comdata": "OK882"
+  },
+  {
+    "city": "Hooker",
+    "state": "OK",
+    "zip": "73945",
+    "comdata": "OK343"
+  },
+  {
+    "city": "Lawton",
+    "state": "OK",
+    "zip": "73501",
+    "comdata": "OK284"
+  },
+  {
+    "city": "Lindsay",
+    "state": "OK",
+    "zip": "73052",
+    "comdata": "OK192"
+  },
+  {
+    "city": "Newcastle",
+    "state": "OK",
+    "zip": "73065",
+    "comdata": "OK718"
+  },
+  {
+    "city": "Newcastle/Norman",
+    "state": "OK",
+    "zip": "73065",
+    "comdata": "OK267"
+  },
+  {
+    "city": "Nowata",
+    "state": "OK",
+    "zip": "74048",
+    "comdata": "OK705"
+  },
+  {
+    "city": "Okemah",
+    "state": "OK",
+    "zip": "74859",
+    "comdata": "OK378"
+  },
+  {
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73100",
+    "comdata": "OK090"
+  },
+  {
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73100",
+    "comdata": "OK172"
+  },
+  {
+    "city": "Oklahoma City-Choctaw Rd",
+    "state": "OK",
+    "zip": null,
+    "comdata": "OK221"
+  },
+  {
+    "city": "Okmulgee",
+    "state": "OK",
+    "zip": "74447",
+    "comdata": "OK236"
+  },
+  {
+    "city": "Pauls Valley",
+    "state": "OK",
+    "zip": "73075",
+    "comdata": "OK730"
+  },
+  {
+    "city": "Randlett",
+    "state": "OK",
+    "zip": "73562",
+    "comdata": "OK863"
+  },
+  {
+    "city": "Seminole",
+    "state": "OK",
+    "zip": "74818",
+    "comdata": "OK252"
+  },
+  {
+    "city": "Texhoma",
+    "state": "OK",
+    "zip": "73949",
+    "comdata": "OK947"
+  },
+  {
+    "city": "Tonkawa",
+    "state": "OK",
+    "zip": "74653",
+    "comdata": "OK153"
+  },
+  {
+    "city": "Union City",
+    "state": "OK",
+    "zip": "73090",
+    "comdata": "OK946"
+  },
+  {
+    "city": "Valliant",
+    "state": "OK",
+    "zip": "74764",
+    "comdata": "OK949"
+  },
+  {
+    "city": "Webbers Falls",
+    "state": "OK",
+    "zip": "74470",
+    "comdata": "OK268"
+  },
+  {
+    "city": "West Siloam Springs",
+    "state": "OK",
+    "zip": null,
+    "comdata": "OK344"
+  },
+  {
+    "city": "Watonga",
+    "state": "OK",
+    "zip": "73772",
+    "comdata": "OK394"
+  },
+  {
+    "city": "Durant",
+    "state": "OK",
+    "zip": "74701",
+    "comdata": "OK550"
+  },
+  {
+    "city": "Perry",
+    "state": "OK",
+    "zip": "73077",
+    "comdata": "OK688"
+  },
+  {
+    "city": "Boardman",
+    "state": "OR",
+    "zip": "97818",
+    "comdata": "OR170"
+  },
+  {
+    "city": "Millersburg/Albany",
+    "state": "OR",
+    "zip": "97321",
+    "comdata": "OR126"
+  },
+  {
+    "city": "Ontario",
+    "state": "OR",
+    "zip": "97914",
+    "comdata": "OR670"
+  },
+  {
+    "city": "Roseburg",
+    "state": "OR",
+    "zip": "97470",
+    "comdata": "OR042"
+  },
+  {
+    "city": "Madras",
+    "state": "OR",
+    "zip": "97741",
+    "comdata": "OR182"
+  },
+  {
+    "city": "Troutdale",
+    "state": "OR",
+    "zip": "97060",
+    "comdata": "OR448"
+  },
+  {
+    "city": "Baker City",
+    "state": "OR",
+    "zip": "97814",
+    "comdata": "OR792"
+  },
+  {
+    "city": "Klamath Falls",
+    "state": "OR",
+    "zip": "97601",
+    "comdata": "OR070"
+  },
+  {
+    "city": "Carlisle",
+    "state": "PA",
+    "zip": "17013",
+    "comdata": "PA452"
+  },
+  {
+    "city": "Jonestown",
+    "state": "PA",
+    "zip": "17038",
+    "comdata": "PA333"
+  },
+  {
+    "city": "Londonderry/Middletown",
+    "state": "PA",
+    "zip": "15356",
+    "comdata": "PA391"
+  },
+  {
+    "city": "Mifflinville",
+    "state": "PA",
+    "zip": "18631",
+    "comdata": "PA200"
+  },
+  {
+    "city": "Plain Grove",
+    "state": "PA",
+    "zip": null,
+    "comdata": "PA042"
+  },
+  {
+    "city": "Shartlesville/Hamburg",
+    "state": "PA",
+    "zip": "19554",
+    "comdata": "PA261"
+  },
+  {
+    "city": "Brookville",
+    "state": "PA",
+    "zip": "15825",
+    "comdata": "PE051"
+  },
+  {
+    "city": "Blacksburg",
+    "state": "SC",
+    "zip": "29702",
+    "comdata": "SC500"
+  },
+  {
+    "city": "Cayce",
+    "state": "SC",
+    "zip": "29033",
+    "comdata": "SC680"
+  },
+  {
+    "city": "Dillon",
+    "state": "SC",
+    "zip": "29536",
+    "comdata": "SC970"
+  },
+  {
+    "city": "Fair Play",
+    "state": "SC",
+    "zip": "29643",
+    "comdata": "SC487"
+  },
+  {
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29707",
+    "comdata": "SC403"
+  },
+  {
+    "city": "Lexington",
+    "state": "SC",
+    "zip": "29071",
+    "comdata": "SC106"
+  },
+  {
+    "city": "Newberry",
+    "state": "SC",
+    "zip": "29108",
+    "comdata": "SC503"
+  },
+  {
+    "city": "Orangeburg",
+    "state": "SC",
+    "zip": "29115",
+    "comdata": "SC572"
+  },
+  {
+    "city": "Yemassee",
+    "state": "SC",
+    "zip": "29945",
+    "comdata": "SC047"
+  },
+  {
+    "city": "Kershaw County/Elgin",
+    "state": "SC",
+    "zip": "29045",
+    "comdata": "SC122"
+  },
+  {
+    "city": "Summerton",
+    "state": "SC",
+    "zip": "29148",
+    "comdata": "SC137"
+  },
+  {
+    "city": "Pageland",
+    "state": "SC",
+    "zip": "29728",
+    "comdata": "SC847"
+  },
+  {
+    "city": "Piedmont/Anderson County",
+    "state": "SC",
+    "zip": "29673",
+    "comdata": "SC079"
+  },
+  {
+    "city": "Box Edler",
+    "state": "SD",
+    "zip": null,
+    "comdata": "SD157"
+  },
+  {
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57101",
+    "comdata": "SD452"
+  },
+  {
+    "city": "Kimball",
+    "state": "SD",
+    "zip": "57355",
+    "comdata": "SD096"
+  },
+  {
+    "city": "Baxter",
+    "state": "TN",
+    "zip": "38544",
+    "comdata": "TN241"
+  },
+  {
+    "city": "Charleston",
+    "state": "TN",
+    "zip": "37310",
+    "comdata": "TN928"
+  },
+  {
+    "city": "Columbia",
+    "state": "TN",
+    "zip": "38401",
+    "comdata": "TN975"
+  },
+  {
+    "city": "Dandridge",
+    "state": "TN",
+    "zip": "37725",
+    "comdata": "TN010"
+  },
+  {
+    "city": "Dickson",
+    "state": "TN",
+    "zip": "37055",
+    "comdata": "TN372"
+  },
+  {
+    "city": "Dyersburg",
+    "state": "TN",
+    "zip": "38024",
+    "comdata": "TN357"
+  },
+  {
+    "city": "Eastview",
+    "state": "TN",
+    "zip": null,
+    "comdata": "TN803"
+  },
+  {
+    "city": "Jackson",
+    "state": "TN",
+    "zip": "38301",
+    "comdata": "TN590"
+  },
+  {
+    "city": "Jasper/Nickajack Lake",
+    "state": "TN",
+    "zip": "37347",
+    "comdata": "TN965"
+  },
+  {
+    "city": "Lenoir City",
+    "state": "TN",
+    "zip": "37771",
+    "comdata": "TN316"
+  },
+  {
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "37501",
+    "comdata": "TN296"
+  },
+  {
+    "city": "Murfreesboro/Christiana",
+    "state": "TN",
+    "zip": "37127",
+    "comdata": "TN168"
+  },
+  {
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37201",
+    "comdata": "TN455"
+  },
+  {
+    "city": "White House",
+    "state": "TN",
+    "zip": "37188",
+    "comdata": "TN358"
+  },
+  {
+    "city": "Holladay",
+    "state": "TN",
+    "zip": "38341",
+    "comdata": "TN764"
+  },
+  {
+    "city": "Mt Juliet",
+    "state": "TN",
+    "zip": null,
+    "comdata": "TN772"
+  },
+  {
+    "city": "Hillsboro/Manchester",
+    "state": "TN",
+    "zip": "37342",
+    "comdata": "TN841"
+  },
+  {
+    "city": "Bulls Gap/Mosheim",
+    "state": "TN",
+    "zip": "37711",
+    "comdata": "TN897"
+  },
+  {
+    "city": "Newport",
+    "state": "TN",
+    "zip": "37821",
+    "comdata": "TN566"
+  },
+  {
+    "city": "Loudon",
+    "state": "TN",
+    "zip": "37774",
+    "comdata": "TN822"
+  },
+  {
+    "city": "Alma",
+    "state": "TX",
+    "zip": null,
+    "comdata": "TE520"
+  },
+  {
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79101",
+    "comdata": "TX947"
+  },
+  {
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79101",
+    "comdata": "TX790"
+  },
+  {
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79101",
+    "comdata": "XT341"
+  },
+  {
+    "city": "Andrews",
+    "state": "TX",
+    "zip": "79714",
+    "comdata": "TX725"
+  },
+  {
+    "city": "Angleton",
+    "state": "TX",
+    "zip": "77515",
+    "comdata": "TE350"
+  },
+  {
+    "city": "Anna",
+    "state": "TX",
+    "zip": "75409",
+    "comdata": "TX734"
+  },
+  {
+    "city": "Anthony",
+    "state": "TX",
+    "zip": "79821",
+    "comdata": "XT598"
+  },
+  {
+    "city": "Baird",
+    "state": "TX",
+    "zip": "79504",
+    "comdata": "TE186"
+  },
+  {
+    "city": "Baytown",
+    "state": "TX",
+    "zip": "77520",
+    "comdata": "XT347"
+  },
+  {
+    "city": "Beaumont",
+    "state": "TX",
+    "zip": "77701",
+    "comdata": "TE444"
+  },
+  {
+    "city": "Bridgeport",
+    "state": "TX",
+    "zip": "76426",
+    "comdata": "TE493"
+  },
+  {
+    "city": "Brookshire/Katy",
+    "state": "TX",
+    "zip": "77423",
+    "comdata": "TX024"
+  },
+  {
+    "city": "Brownsville",
+    "state": "TX",
+    "zip": "78520",
+    "comdata": "TE656"
+  },
+  {
+    "city": "Cleveland",
+    "state": "TX",
+    "zip": "77327",
+    "comdata": "XT507"
+  },
+  {
+    "city": "Comfort",
+    "state": "TX",
+    "zip": "77978",
+    "comdata": "XT453"
+  },
+  {
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75065",
+    "comdata": "TX324"
+  },
+  {
+    "city": "Deer Park",
+    "state": "TX",
+    "zip": "77536",
+    "comdata": "TX387"
+  },
+  {
+    "city": "Denton",
+    "state": "TX",
+    "zip": "76201",
+    "comdata": "TE530"
+  },
+  {
+    "city": "Domino",
+    "state": "TX",
+    "zip": null,
+    "comdata": "TE370"
+  },
+  {
+    "city": "Donna",
+    "state": "TX",
+    "zip": "78537",
+    "comdata": "TE563"
+  },
+  {
+    "city": "Dumas",
+    "state": "TX",
+    "zip": "79029",
+    "comdata": "TE311"
+  },
+  {
+    "city": "Edinburg",
+    "state": "TX",
+    "zip": "78539",
+    "comdata": "TX443"
+  },
+  {
+    "city": "Edna",
+    "state": "TX",
+    "zip": "77957",
+    "comdata": "TX275"
+  },
+  {
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79901",
+    "comdata": "TX659"
+  },
+  {
+    "city": "Fairfield",
+    "state": "TX",
+    "zip": "75840",
+    "comdata": "TX325"
+  },
+  {
+    "city": "Ft Stockton",
+    "state": "TX",
+    "zip": null,
+    "comdata": "TE058"
+  },
+  {
+    "city": "Ft. Worth",
+    "state": "TX",
+    "zip": null,
+    "comdata": "XT805"
+  },
+  {
+    "city": "Hearne",
+    "state": "TX",
+    "zip": "77859",
+    "comdata": "XT427"
+  },
+  {
+    "city": "Hereford",
+    "state": "TX",
+    "zip": "79045",
+    "comdata": "TE388"
+  },
+  {
+    "city": "Hillsboro",
+    "state": "TX",
+    "zip": "76645",
+    "comdata": "TX871"
+  },
+  {
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77001",
+    "comdata": "TX021"
+  },
+  {
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77001",
+    "comdata": "XT769"
+  },
+  {
+    "city": "Hungerford",
+    "state": "TX",
+    "zip": "77448",
+    "comdata": "TE244"
+  },
+  {
+    "city": "Hutchins",
+    "state": "TX",
+    "zip": "75141",
+    "comdata": "XT813"
+  },
+  {
+    "city": "Italy",
+    "state": "TX",
+    "zip": "76651",
+    "comdata": "TE243"
+  },
+  {
+    "city": "Kingsville",
+    "state": "TX",
+    "zip": "78363",
+    "comdata": "XT197"
+  },
+  {
+    "city": "Laredo/Encinal",
+    "state": "TX",
+    "zip": "78040",
+    "comdata": "TX737"
+  },
+  {
+    "city": "Leary/Texarkana",
+    "state": "TX",
+    "zip": "75501",
+    "comdata": "TX115"
+  },
+  {
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79401",
+    "comdata": "TX032"
+  },
+  {
+    "city": "Lufkin",
+    "state": "TX",
+    "zip": "75901",
+    "comdata": "TE549"
+  },
+  {
+    "city": "Lufkin",
+    "state": "TX",
+    "zip": "75901",
+    "comdata": "XT931"
+  },
+  {
+    "city": "Luling",
+    "state": "TX",
+    "zip": "78648",
+    "comdata": "XT370"
+  },
+  {
+    "city": "Memphis",
+    "state": "TX",
+    "zip": "79245",
+    "comdata": "XT892"
+  },
+  {
+    "city": "Midland",
+    "state": "TX",
+    "zip": "79701",
+    "comdata": "TE296"
+  },
+  {
+    "city": "Midlothian",
+    "state": "TX",
+    "zip": "76065",
+    "comdata": "TX902"
+  },
+  {
+    "city": "Mt. Vernon",
+    "state": "TX",
+    "zip": null,
+    "comdata": "XT757"
+  },
+  {
+    "city": "Natalia",
+    "state": "TX",
+    "zip": "78059",
+    "comdata": "TX113"
+  },
+  {
+    "city": "Odessa",
+    "state": "TX",
+    "zip": "79760",
+    "comdata": "TX255"
+  },
+  {
+    "city": "Panhandle/Claude",
+    "state": "TX",
+    "zip": "79068",
+    "comdata": "TX818"
+  },
+  {
+    "city": "Paris",
+    "state": "TX",
+    "zip": "75460",
+    "comdata": "TE431"
+  },
+  {
+    "city": "Pecos",
+    "state": "TX",
+    "zip": "79772",
+    "comdata": "TX187"
+  },
+  {
+    "city": "Quanah",
+    "state": "TX",
+    "zip": "79252",
+    "comdata": "TE333"
+  },
+  {
+    "city": "Ranger",
+    "state": "TX",
+    "zip": "76470",
+    "comdata": "XT655"
+  },
+  {
+    "city": "Rhome",
+    "state": "TX",
+    "zip": "76078",
+    "comdata": "XT410"
+  },
+  {
+    "city": "Rockwall",
+    "state": "TX",
+    "zip": "75032",
+    "comdata": "TX533"
+  },
+  {
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78201",
+    "comdata": "TX484"
+  },
+  {
+    "city": "Seguin",
+    "state": "TX",
+    "zip": "78155",
+    "comdata": "XT216"
+  },
+  {
+    "city": "Sinton",
+    "state": "TX",
+    "zip": "78387",
+    "comdata": "TE416"
+  },
+  {
+    "city": "Sonora",
+    "state": "TX",
+    "zip": "76950",
+    "comdata": "TE587"
+  },
+  {
+    "city": "Sulphur Springs",
+    "state": "TX",
+    "zip": "75482",
+    "comdata": "TE584"
+  },
+  {
+    "city": "Sweetwater",
+    "state": "TX",
+    "zip": "79556",
+    "comdata": "TX301"
+  },
+  {
+    "city": "Three Rivers",
+    "state": "TX",
+    "zip": "78071",
+    "comdata": "XT409"
+  },
+  {
+    "city": "Troy",
+    "state": "TX",
+    "zip": "76579",
+    "comdata": "TE496"
+  },
+  {
+    "city": "Van",
+    "state": "TX",
+    "zip": "75447",
+    "comdata": "XT972"
+  },
+  {
+    "city": "Van",
+    "state": "TX",
+    "zip": "75447",
+    "comdata": "TE338"
+  },
+  {
+    "city": "Van Horn",
+    "state": "TX",
+    "zip": "79855",
+    "comdata": "XT326"
+  },
+  {
+    "city": "Waller",
+    "state": "TX",
+    "zip": "77484",
+    "comdata": "TX610"
+  },
+  {
+    "city": "Weatherford",
+    "state": "TX",
+    "zip": "76085",
+    "comdata": "XT692"
+  },
+  {
+    "city": "Weimar",
+    "state": "TX",
+    "zip": "78962",
+    "comdata": "TX705"
+  },
+  {
+    "city": "Wichita Falls",
+    "state": "TX",
+    "zip": "76301",
+    "comdata": "XT608"
+  },
+  {
+    "city": "Willis",
+    "state": "TX",
+    "zip": "77318",
+    "comdata": "XT680"
+  },
+  {
+    "city": "Kermit",
+    "state": "TX",
+    "zip": "79745",
+    "comdata": "XT710"
+  },
+  {
+    "city": "Laredo",
+    "state": "TX",
+    "zip": "78040",
+    "comdata": "TX091"
+  },
+  {
+    "city": "Dalhart",
+    "state": "TX",
+    "zip": "79022",
+    "comdata": "TE923"
+  },
+  {
+    "city": "Winona",
+    "state": "TX",
+    "zip": "75792",
+    "comdata": "TE925"
+  },
+  {
+    "city": "Carthage",
+    "state": "TX",
+    "zip": "75633",
+    "comdata": "ET030"
+  },
+  {
+    "city": "New Boston",
+    "state": "TX",
+    "zip": "75570",
+    "comdata": "ET059"
+  },
+  {
+    "city": "Combes/Harlingen",
+    "state": "TX",
+    "zip": "78535",
+    "comdata": "ET279"
+  },
+  {
+    "city": "Cotulla",
+    "state": "TX",
+    "zip": "78014",
+    "comdata": "ET282"
+  },
+  {
+    "city": "Brigham City",
+    "state": "UT",
+    "zip": "84302",
+    "comdata": "UT213"
+  },
+  {
+    "city": "Cedar City",
+    "state": "UT",
+    "zip": "84720",
+    "comdata": "UT155"
+  },
+  {
+    "city": "Salina",
+    "state": "UT",
+    "zip": "84654",
+    "comdata": "UT220"
+  },
+  {
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84101",
+    "comdata": "UT769"
+  },
+  {
+    "city": "Springville",
+    "state": "UT",
+    "zip": "84663",
+    "comdata": "UT502"
+  },
+  {
+    "city": "Green River",
+    "state": "UT",
+    "zip": "84525",
+    "comdata": "UT028"
+  },
+  {
+    "city": "Filmore",
+    "state": "UT",
+    "zip": null,
+    "comdata": "UT061"
+  },
+  {
+    "city": "Bastian",
+    "state": "VA",
+    "zip": "24314",
+    "comdata": "VA007"
+  },
+  {
+    "city": "Fancy Gap/Lambsburg",
+    "state": "VA",
+    "zip": "24328",
+    "comdata": "VA600"
+  },
+  {
+    "city": "Franklin",
+    "state": "VA",
+    "zip": "23851",
+    "comdata": "VA084"
+  },
+  {
+    "city": "Low Moor",
+    "state": "VA",
+    "zip": "24457",
+    "comdata": "VA016"
+  },
+  {
+    "city": "Meadowview",
+    "state": "VA",
+    "zip": "24361",
+    "comdata": "VA545"
+  },
+  {
+    "city": "Prince George",
+    "state": "VA",
+    "zip": "23875",
+    "comdata": "VA525"
+  },
+  {
+    "city": "Ruther Glen",
+    "state": "VA",
+    "zip": "22546",
+    "comdata": "VA255"
+  },
+  {
+    "city": "Skippers",
+    "state": "VA",
+    "zip": "23879",
+    "comdata": "VA544"
+  },
+  {
+    "city": "South Hill",
+    "state": "VA",
+    "zip": "23970",
+    "comdata": "VA243"
+  },
+  {
+    "city": "Talleysville",
+    "state": "VA",
+    "zip": null,
+    "comdata": "VA718"
+  },
+  {
+    "city": "Toms Brook",
+    "state": "VA",
+    "zip": "22660",
+    "comdata": "VA021"
+  },
+  {
+    "city": "Wytheville/Max Meadows",
+    "state": "VA",
+    "zip": "24382",
+    "comdata": "VA509"
+  },
+  {
+    "city": "Staunton",
+    "state": "VA",
+    "zip": "24401",
+    "comdata": "VA307"
+  },
+  {
+    "city": "Ellensburg",
+    "state": "WA",
+    "zip": "98926",
+    "comdata": "WA202"
+  },
+  {
+    "city": "Napavine",
+    "state": "WA",
+    "zip": "98565",
+    "comdata": "WA986"
+  },
+  {
+    "city": "Prosser",
+    "state": "WA",
+    "zip": "99350",
+    "comdata": "WA434"
+  },
+  {
+    "city": "Ritzville",
+    "state": "WA",
+    "zip": "99169",
+    "comdata": "WA508"
+  },
+  {
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98401",
+    "comdata": "WA203"
+  },
+  {
+    "city": "Moses Lake",
+    "state": "WA",
+    "zip": "98837",
+    "comdata": "WA270"
+  },
+  {
+    "city": "Pasco",
+    "state": "WA",
+    "zip": "99301",
+    "comdata": "WA412"
+  },
+  {
+    "city": "Dekorra",
+    "state": "WI",
+    "zip": null,
+    "comdata": "WI440"
+  },
+  {
+    "city": "Elkhorn",
+    "state": "WI",
+    "zip": "53121",
+    "comdata": "WI353"
+  },
+  {
+    "city": "Fond Du Lac",
+    "state": "WI",
+    "zip": "54935",
+    "comdata": "WI156"
+  },
+  {
+    "city": "Menomonie",
+    "state": "WI",
+    "zip": "54751",
+    "comdata": "WI084"
+  },
+  {
+    "city": "Oak Creek",
+    "state": "WI",
+    "zip": "53154",
+    "comdata": "WI203"
+  },
+  {
+    "city": "Oakdale",
+    "state": "WI",
+    "zip": "54649",
+    "comdata": "WI956"
+  },
+  {
+    "city": "Wilson Township/Sheboygan",
+    "state": "WI",
+    "zip": "53081",
+    "comdata": "WI434"
+  },
+  {
+    "city": "Ripley",
+    "state": "WV",
+    "zip": "25271",
+    "comdata": "WV599"
+  },
+  {
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82001",
+    "comdata": "WY368"
+  },
+  {
+    "city": "Laramie",
+    "state": "WY",
+    "zip": "82057",
+    "comdata": "WY003"
+  },
+  {
+    "city": "Wamsutter",
+    "state": "WY",
+    "zip": "82336",
+    "comdata": "WY027"
+  },
+  {
+    "city": "Jamestown/Green River",
+    "state": "WY",
+    "zip": "82935",
+    "comdata": "WY033"
+  }
+]
