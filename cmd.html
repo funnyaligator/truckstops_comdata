@@ -1,26 +1,53 @@
 <!DOCTYPE html>
-<html>
+<html lang="ru">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Моя локация и Comdata</title>
+  <title>Comdata Locator</title>
+  <style>
+    body {
+      background-color: #121212;
+      color: #e0e0e0;
+      font-family: sans-serif;
+      padding: 20px;
+    }
+    h2 {
+      color: #ffffff;
+    }
+    #output, #results {
+      margin-top: 20px;
+    }
+    .card {
+      background-color: #1e1e1e;
+      border: 1px solid #333;
+      border-radius: 10px;
+      padding: 12px;
+      margin-bottom: 12px;
+      box-shadow: 0 0 8px rgba(255,255,255,0.05);
+    }
+    .card b {
+      color: #ffffff;
+    }
+    code {
+      color: #00e676;
+      font-size: 1.1em;
+    }
+  </style>
 </head>
 <body>
-  <h2>Определение локации...</h2>
-  <div id="output"></div>
+  <h2>Поиск ближайшей Comdata-заправки</h2>
+  <div id="output">Определение локации...</div>
   <div id="results"></div>
 
   <script>
     const output = document.getElementById("output");
     const results = document.getElementById("results");
 
-    // Подгружаем JSON с заправками
     let truckStops = [];
     fetch('loves_comdata_zipped.json')
       .then(res => res.json())
       .then(data => truckStops = data);
 
-    // Получение геопозиции
     if ("geolocation" in navigator) {
       navigator.geolocation.getCurrentPosition(
         (position) => {
@@ -28,7 +55,6 @@
           const lon = position.coords.longitude;
           output.innerHTML = `<p>Широта: ${lat}</p><p>Долгота: ${lon}</p>`;
 
-          // Определяем ZIP через Nominatim
           fetch(`https://nominatim.openstreetmap.org/reverse?lat=${lat}&lon=${lon}&format=json`)
             .then(res => res.json())
             .then(data => {
@@ -37,7 +63,6 @@
                 output.innerHTML += `<p>ZIP: ${zip}</p>`;
                 showComdata(zip);
               } else {
-                // fallback на другой сервис
                 fetch(`https://api.bigdatacloud.net/data/reverse-geocode-client?latitude=${lat}&longitude=${lon}&localityLanguage=en`)
                   .then(res => res.json())
                   .then(data => {
@@ -57,24 +82,24 @@
       output.innerHTML = "<p>Ваш браузер не поддерживает геолокацию.</p>";
     }
 
-    // Функция поиска и вывода Comdata по ZIP
     function showComdata(zip) {
-      const matches = truckStops.filter(stop => stop.zip === zip);
-      if (matches.length > 0) {
-        results.innerHTML = `<h3>Ближайшие заправки:</h3>`;
-        matches.forEach(stop => {
-          results.innerHTML += `
-            <p>
-              <b>${stop.city}, ${stop.state}</b><br>
-              Comdata: <code>${stop.comdata}</code><br>
-              ZIP: ${stop.zip}
-            </p>
-          `;
-        });
-      } else {
-        results.innerHTML = `<p>Нет совпадений по ZIP ${zip}</p>`;
-      }
-    }
+    const matches = truckStops.filter(stop => stop.zip === zip);
+    if (matches.length > 0) {
+    results.innerHTML = `<h3>Найдены заправки:</h3>`;
+    matches.forEach(stop => {
+      results.innerHTML += `
+        <div class="card">
+          <b>${stop.city}, ${stop.state}</b><br>
+          ZIP: <code>${stop.zip}</code><br>
+          Comdata Code: <code>${stop.comdata}</code><br>
+          ${stop.phone ? `📞 Телефон: <code>${stop.phone}</code><br>` : ''}
+        </div>
+      `;
+    });
+  } else {
+    results.innerHTML = `<p>❌ Нет совпадений по ZIP <code>${zip}</code></p>`;
+  }
+  }
   </script>
 </body>
 </html>
