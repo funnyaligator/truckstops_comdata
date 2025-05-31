@@ -608,7 +608,7 @@
   {
     "city": "St. Augustine",
     "state": "FL",
-    "zip": null,
+    "zip": 32086,
     "comdata": "FL455"
   },
   {
@@ -710,7 +710,7 @@
   {
     "city": "Garden City",
     "state": "GA",
-    "zip": null,
+    "zip": 31408,
     "comdata": "GE033"
   },
   {
@@ -752,7 +752,7 @@
   {
     "city": "Mills County",
     "state": "IA",
-    "zip": null,
+    "zip": 51561,
     "comdata": "IA524"
   },
   {
